@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ebr:home|Door43 (ebr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ebr|d43-ebr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ebr/archive/master.zip|d43-ebr.zip]]
+
+**Recent Changes**
+{{changes>ns = ebr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ebr|Ethnologue data]]
+
